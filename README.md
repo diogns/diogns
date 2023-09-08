@@ -2,9 +2,8 @@
 <h3 align="center">A passionate developer from Peru</h3>
 
 <ul>
-  <li>🔭 I’m currently working on Uncodeit Consulting</li>
-  <li>👯 I’m looking to collaborate on</li>
-  <li>🌱 I’m currently learning</li>
+  <li>⚡ I’m interested in JavaScript and related technologies that improve its use. I currently work with NodeJS for the Telecommunications sector📡.</li>
+  <li>🌱 I’m currently learning Java and Spring Boot</li>
   <li>⚡ Fun fact: 📸Photography Lover</li>
   <li>📫 How to reach me raulmoralestaza@gmail.com or +51 998 102 528.</li>
 </ul>
