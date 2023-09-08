@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me: <a href="https://diogns.github.io/portfolio/">https://diogns.github.io/portfolio/</a> </h3>
 <p align="left">
-<a href="https://twitter.com/7raulmoralest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7raulmoralest" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raul-morales-taza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raul-morales-taza" height="30" width="40" /></a>
 </p>
 
