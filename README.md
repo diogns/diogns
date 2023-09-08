@@ -13,6 +13,11 @@
 💬 Ask me about
 <br>
 ⚡ Fun fact
+<ul>
+  <li>🔭 I’m currently working on </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
 
 <h3 align="left">Connect with me: <a href="https://diogns.github.io/portfolio/">https://diogns.github.io/portfolio/</a> </h3>
