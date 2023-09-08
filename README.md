@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">A passionate developer from Peru</h3>
-
+* Item 1
+* Item 2
 🔭 I’m currently working on 
 <br>
 👯 I’m looking to collaborate on
