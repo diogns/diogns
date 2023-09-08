@@ -1,22 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">A passionate developer from Peru</h3>
-* Item 1
-* Item 2
-🔭 I’m currently working on 
-<br>
-👯 I’m looking to collaborate on
-<br>
-🤝 I’m looking for help with
-<br>
-🌱 I’m currently learning
-<br>
-💬 Ask me about
-<br>
-⚡ Fun fact
+
 <ul>
   <li>🔭 I’m currently working on </li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>👯 I’m looking to collaborate on</li>
+  <li>🤝 I’m looking for help with</li>
+  <li>🌱 I’m currently learning</li>
+  <li>💬 Ask me about</li>
+  <li>⚡ Fun fact</li>
 </ul>
 
 
