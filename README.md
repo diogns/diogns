@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raul</h1>
 <h3 align="center">A passionate developer from Peru</h3>
 
-
+🌱 I’m currently learning about software engineer.
+🧑🏻‍💻 I’m looking to get a job in a startup company.
+🥅 2022 Goals:Get grade A in the Cambridge Proficiency Exam and deepen in Software Engineering Knowledge.
+⚡ Fun fact: I love listening music.
+📫 How to reach me renzo.quispe.c@uni.pe or +51 910 534 820.
 
 <h3 align="left">Connect with me: <a href="https://diogns.github.io/portfolio/">https://diogns.github.io/portfolio/</a> </h3>
 <p align="left">
