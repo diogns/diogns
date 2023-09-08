@@ -2,12 +2,11 @@
 <h3 align="center">A passionate developer from Peru</h3>
 
 <ul>
-  <li>🔭 I’m currently working on </li>
+  <li>🔭 I’m currently working on Uncodeit Consulting</li>
   <li>👯 I’m looking to collaborate on</li>
-  <li>🤝 I’m looking for help with</li>
   <li>🌱 I’m currently learning</li>
-  <li>💬 Ask me about</li>
-  <li>⚡ Fun fact</li>
+  <li>⚡ Fun fact: 📸Photography Lover</li>
+  <li>📫 How to reach me raulmoralestaza@gmail.com or +51 998 102 528.</li>
 </ul>
 
 
