@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from Peru</h3>
 
 <ul>
+  <li>🧑🏻‍💻  I’m interested in JavaScript and related technologies.</li>
   <li>🌱 I’m currently learning Java, Spring Boot and Software Engineering </li>
   <li> 🥅 2023 Goals: Get a good grade on the Cambridge Proficiency Exam and and get a certification in Software Engineering.</li>
   <li>⚡ Fun fact: 📸Photography Lover</li>
