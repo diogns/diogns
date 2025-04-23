@@ -4,7 +4,7 @@
 <ul>
   <li>🧑🏻‍💻  I’m interested in JavaScript and related technologies.</li>
   <li>🌱 I’m currently learning Java, Spring Boot and Software Engineering </li>
-  <li> 🥅 2024 Goals: Get a good grade on the Cambridge Proficiency Exam and and get a certification in Big Data and AWS.</li>
+  <li> 🥅 2025 Goals: Get a good grade on the Cambridge Proficiency Exam and and get a certification in Big Data and AWS.</li>
   <li>⚡ Fun fact: 📸Photography Lover</li>
   <li>📫 How to reach me raulmoralestaza@gmail.com or +51 998 102 528.</li>
 </ul>
